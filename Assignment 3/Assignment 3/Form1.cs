@@ -20,7 +20,9 @@ namespace Assignment_3
 
         private void btn_save_Click(object sender, EventArgs e)
         {
-        
+          
+
+
             property p=new property {number=Convert.ToInt32(txt_number.Text),inventory=txt_inv.Text,item=txt_item.Text ,count=Convert.ToInt32(txt_count.Text), price=Convert.ToInt32(txt_price.Text) };
             Regex reg = new Regex(@"^[0-9]{3}$");
             Regex reg1 = new Regex(@"^[A-Z]{1}[a-z]+$");
