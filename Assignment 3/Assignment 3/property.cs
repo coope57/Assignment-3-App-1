@@ -14,6 +14,7 @@ namespace Assignment_3
         public string  item { get; set; }
         public int price{ get; set; }
         public int count{ get; set; }
+        public string type { get; set; }
         public void save()
         {
             products.Add(this);

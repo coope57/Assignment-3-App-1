@@ -45,6 +45,8 @@
             this.btn_cancel = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            this.radio1 = new System.Windows.Forms.RadioButton();
+            this.radio2 = new System.Windows.Forms.RadioButton();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
@@ -177,11 +179,37 @@
             // 
             this.errorProvider1.ContainerControl = this;
             // 
+            // radio1
+            // 
+            this.radio1.AutoSize = true;
+            this.radio1.Location = new System.Drawing.Point(593, 146);
+            this.radio1.Name = "radio1";
+            this.radio1.Size = new System.Drawing.Size(67, 17);
+            this.radio1.TabIndex = 15;
+            this.radio1.TabStop = true;
+            this.radio1.Text = "FEMALE";
+            this.radio1.UseVisualStyleBackColor = true;
+            this.radio1.CheckedChanged += new System.EventHandler(this.radio1_CheckedChanged);
+            // 
+            // radio2
+            // 
+            this.radio2.AutoSize = true;
+            this.radio2.Location = new System.Drawing.Point(601, 197);
+            this.radio2.Name = "radio2";
+            this.radio2.Size = new System.Drawing.Size(54, 17);
+            this.radio2.TabIndex = 16;
+            this.radio2.TabStop = true;
+            this.radio2.Text = "MALE";
+            this.radio2.UseVisualStyleBackColor = true;
+            this.radio2.CheckedChanged += new System.EventHandler(this.radio2_CheckedChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.radio2);
+            this.Controls.Add(this.radio1);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.btn_cancel);
             this.Controls.Add(this.btn_save);
@@ -224,6 +252,8 @@
         private System.Windows.Forms.Button btn_cancel;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.ErrorProvider errorProvider1;
+        private System.Windows.Forms.RadioButton radio2;
+        private System.Windows.Forms.RadioButton radio1;
     }
 }
 

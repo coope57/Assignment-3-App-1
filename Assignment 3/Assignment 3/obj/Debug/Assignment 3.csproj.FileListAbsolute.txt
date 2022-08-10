@@ -9,3 +9,4 @@ C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\Assignment 3\Assignment 
 C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\Assignment 3\Assignment 3\obj\Debug\Assignment 3.csproj.CoreCompileInputs.cache
 C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\Assignment 3\Assignment 3\obj\Debug\Assignment 3.exe
 C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\Assignment 3\Assignment 3\obj\Debug\Assignment 3.pdb
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\Assignment 3\Assignment 3\obj\Debug\Assignment_3.log_in.resources

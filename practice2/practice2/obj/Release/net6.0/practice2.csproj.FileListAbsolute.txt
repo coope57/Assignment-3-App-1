@@ -1,0 +1,15 @@
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\practice2\practice2\bin\Release\net6.0\practice2.exe
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\practice2\practice2\bin\Release\net6.0\practice2.deps.json
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\practice2\practice2\bin\Release\net6.0\practice2.runtimeconfig.json
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\practice2\practice2\bin\Release\net6.0\practice2.dll
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\practice2\practice2\bin\Release\net6.0\practice2.pdb
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\practice2\practice2\obj\Release\net6.0\practice2.csproj.AssemblyReference.cache
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\practice2\practice2\obj\Release\net6.0\practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\practice2\practice2\obj\Release\net6.0\practice2.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\practice2\practice2\obj\Release\net6.0\practice2.AssemblyInfo.cs
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\practice2\practice2\obj\Release\net6.0\practice2.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\practice2\practice2\obj\Release\net6.0\practice2.dll
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\practice2\practice2\obj\Release\net6.0\refint\practice2.dll
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\practice2\practice2\obj\Release\net6.0\practice2.pdb
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\practice2\practice2\obj\Release\net6.0\practice2.genruntimeconfig.cache
+C:\Users\M\Desktop\Elias\assignments\Assignment-3-App-1\practice2\practice2\obj\Release\net6.0\ref\practice2.dll
